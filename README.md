@@ -49,5 +49,5 @@ $ export GCP_PROJECT_ID="your-gcp-project-id"
 $ gcloud auth login
 
 # IAPを利用してSSH接続する
-$ gcloud beta compute ssh --zone $ZONE $VM_INSTANCE_NAME --project $GCP_PROJECT_ID
+$ gcloud beta compute ssh --zone $ZONE $VM_INSTANCE_NAME --project $GCP_PROJECT_ID --tunnel-through-iap
 ```
