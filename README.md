@@ -1,4 +1,4 @@
-# 外部IPアドレスを持たないVMインスタンスにCloud IAPを利用してSSH接続する
+# 外部IPアドレスを持たないVMインスタンスにCloudIAPを利用してSSH接続する
 
 ## これは何？
 - GCPでVPCとsubnetを作成し、subnet内にVMインスタンスを起動します
