@@ -5,6 +5,9 @@
 - VMインスタンスに外部IPアドレスを付与しません
 - subnet内に起動したVMインスタンスにIAPを用いてSSH接続します
 
+## 解説記事
+https://zenn.dev/nekoshita/articles/6c8a3650db4489
+
 ## Cloud IAP(Identity-Aware Proxy)とは？
 - Cloud IAPの仕組み
   - https://cloud.google.com/iap/docs/concepts-overview
